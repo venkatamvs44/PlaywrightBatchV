@@ -1,0 +1,27 @@
+import{expect, type Locator, type Page} from "@playwright/test";
+
+export class Loginpage{
+    readonly page: Page
+    readonly emailtf: Locator  // defining the type of Locator
+    readonly passwordtf: Locator
+    readonly lgnbtn: Locator
+
+    constructor(page: Page)
+    {
+        this.page=page;
+        this.emailtf=page.locator("#email")
+        this.passwordtf=page.locator("#password")
+        this.lgnbtn=page.locator('//button[@type="submit"]')   // using getByText to locaate the button.
+    }
+
+    //login Business logic
+    async loginaction(email:string, password:string)
+    {
+       await this.emailtf.fill(email)
+    await expect (this.emailtf).toBeEditable()
+    await this.passwordtf.fill(password)
+    await this.lgnbtn.click()
+
+    }
+}
+

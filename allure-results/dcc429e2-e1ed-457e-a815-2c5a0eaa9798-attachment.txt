@@ -1,0 +1,72 @@
+[
+  {
+    id: 8259544,
+    name: 'Atmaja Jain',
+    email: 'atmaja_jain@west-conroy.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8259541,
+    name: 'Chaten Devar',
+    email: 'chaten_devar@erdman.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8259537,
+    name: 'Kalinda Banerjee',
+    email: 'banerjee_kalinda@mckenzie.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8259536,
+    name: 'Baalagopaal Trivedi',
+    email: 'baalagopaal_trivedi@kautzer.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8259535,
+    name: 'Rev. Devagya Bharadwaj',
+    email: 'rev_devagya_bharadwaj@romaguera.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8259534,
+    name: 'Trilok Iyer',
+    email: 'trilok_iyer@wolff.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8259531,
+    name: 'Balachandra Sharma Esq.',
+    email: 'balachandra_sharma_esq@schinner.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8259530,
+    name: 'Gurdev Acharya',
+    email: 'acharya_gurdev@lind-hills.test',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8259528,
+    name: 'Vishwamitra Chopra',
+    email: 'vishwamitra_chopra@erdman-steuber.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8259527,
+    name: 'Harinakshi Gill',
+    email: 'harinakshi_gill@okon-fay.test',
+    gender: 'female',
+    status: 'active'
+  }
+]

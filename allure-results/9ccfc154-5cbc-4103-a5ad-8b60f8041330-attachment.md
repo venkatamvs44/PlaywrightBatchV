@@ -1,0 +1,36 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - link "www.amazon.in" [ref=e6] [cursor=pointer]:
+    - /url: /ref=ap_frn_logo
+    - text: .in
+  - generic [ref=e12]:
+    - heading "Sign in" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - text: venkata.mvs@gmail.com
+      - link "Change" [ref=e15] [cursor=pointer]:
+        - /url: https://www.amazon.in/ap/signin?useMobileAsClaim=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&signInRedirectToFPPThreshold=5&pageId=inflex&useSHuMAWorkflow=false&showSignInWithOTPButton=false&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&prevRID=5ZP5RVK3JCG27QC6S35T&openid.assoc_handle=inflex&useSignInWithOTP=true&openid.mode=checkid_setup&prepopulatedLoginId=eyJjaXBoZXIiOiJSUW1YVmx6Nm5FSWwrYWxxZCtqYmE3c1NRSXdwUHBIZ1Z5S1lJdGxuWXJZPSIsInZlcnNpb24iOjMsIklWIjoicHFEaDI0S09CenI1b0F2UzFGZzJzQT09In0%3D&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&ref_=ap_pwd_change
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e21]: Password
+          - link "Forgot password?" [ref=e23] [cursor=pointer]:
+            - /url: https://www.amazon.in/ap/forgotpassword?useMobileAsClaim=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&signInRedirectToFPPThreshold=5&prepopulatedCustomerId=eyJjaXBoZXIiOiJlZEM3L082bW9FVEJiR1NnbHVVTnBRPT0iLCJ2ZXJzaW9uIjozLCJJViI6IkdDQ3M3Q1lkT2RMZGE0QkFyOXR1bVE9PSJ9&pageId=inflex&useSHuMAWorkflow=false&showSignInWithOTPButton=false&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&prevRID=5ZP5RVK3JCG27QC6S35T&openid.assoc_handle=inflex&useSignInWithOTP=true&openid.mode=checkid_setup&prepopulatedLoginId=eyJjaXBoZXIiOiJTNEcyWlo1RFhwSnhNd3FvTHk4TituTExNYXdTR1N3bCt6ZndkVjc3QXBJPSIsInZlcnNpb24iOjMsIklWIjoiZDNZWTVWUjhnVWhYc2NvUnZ1eFNYZz09In0%3D&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+        - textbox "Password" [active] [ref=e24]: Vijaya@123
+      - generic [ref=e27] [cursor=pointer]:
+        - button "Sign in" [ref=e28]
+        - generic [ref=e29]: Sign in
+  - generic [ref=e30]:
+    - list [ref=e34]:
+      - listitem [ref=e35]:
+        - link "Conditions of Use" [ref=e36] [cursor=pointer]:
+          - /url: /gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&nodeId=200545940
+      - listitem [ref=e37]:
+        - link "Privacy Notice" [ref=e38] [cursor=pointer]:
+          - /url: /gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&nodeId=200534380
+      - listitem [ref=e39]:
+        - link "Help" [ref=e40] [cursor=pointer]:
+          - /url: /help
+    - generic [ref=e41]: © 1996-2025, Amazon.com, Inc. or its affiliates
+```

@@ -11,7 +11,7 @@ test('Download file', async({page})=>
     let savedpath='download/db.json'     // specify the path , outside of the tests folder.
     await download.saveAs(savedpath)
 
-    expect(download.suggestedFilename()).toBe('db.json');   // Assertion to check if the downloaded file name is correct
+  await expect(download.suggestedFilename()).toBe('db.json');   // Assertion to check if the downloaded file name is correct
     //actual file name  vs   expected file name db.json
 
 }

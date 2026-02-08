@@ -1,0 +1,159 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - link "Fork me on GitHub":
+      - /url: https://github.com/tourdedave/the-internet
+      - img "Fork me on GitHub" [ref=e5] [cursor=pointer]
+    - generic [ref=e7]:
+      - heading "File Downloader" [level=3] [ref=e8]
+      - link "large-test-file.txt" [ref=e9] [cursor=pointer]:
+        - /url: download/large-test-file.txt
+      - link "430-greenville-byp_test (5).pdf" [ref=e10] [cursor=pointer]:
+        - /url: download/430-greenville-byp_test (5).pdf
+      - link "bb.txt" [ref=e11] [cursor=pointer]:
+        - /url: download/bb.txt
+      - link "Anita.jpg" [ref=e12] [cursor=pointer]:
+        - /url: download/Anita.jpg
+      - link "calcdata.xlsx" [ref=e13] [cursor=pointer]:
+        - /url: download/calcdata.xlsx
+      - link "test.csv" [ref=e14] [cursor=pointer]:
+        - /url: download/test.csv
+      - link "test-image.png" [ref=e15] [cursor=pointer]:
+        - /url: download/test-image.png
+      - link "demo-upload.txt" [ref=e16] [cursor=pointer]:
+        - /url: download/demo-upload.txt
+      - link "tmpxnmjreji.txt" [ref=e17] [cursor=pointer]:
+        - /url: download/tmpxnmjreji.txt
+      - link "selenium-snapshot.png" [ref=e18] [cursor=pointer]:
+        - /url: download/selenium-snapshot.png
+      - link "26CC86C8-4275-491F-B4C6-FA317A19674C.png" [ref=e19] [cursor=pointer]:
+        - /url: download/26CC86C8-4275-491F-B4C6-FA317A19674C.png
+      - link "file1.txt" [ref=e20] [cursor=pointer]:
+        - /url: download/file1.txt
+      - link "uploadTestFile.txt" [ref=e21] [cursor=pointer]:
+        - /url: download/uploadTestFile.txt
+      - link "state-webkit.json" [ref=e22] [cursor=pointer]:
+        - /url: download/state-webkit.json
+      - link "tmpvpbc1x2f.txt" [ref=e23] [cursor=pointer]:
+        - /url: download/tmpvpbc1x2f.txt
+      - link "311928090_20.jpg" [ref=e24] [cursor=pointer]:
+        - /url: download/311928090_20.jpg
+      - link "my_custom_file.txt" [ref=e25] [cursor=pointer]:
+        - /url: download/my_custom_file.txt
+      - link "tmp6zys8g8y.txt" [ref=e26] [cursor=pointer]:
+        - /url: download/tmp6zys8g8y.txt
+      - link "test_upload6179939848078622167.txt" [ref=e27] [cursor=pointer]:
+        - /url: download/test_upload6179939848078622167.txt
+      - link "Sinjini.png" [ref=e28] [cursor=pointer]:
+        - /url: download/Sinjini.png
+      - link "sample3.pdf" [ref=e29] [cursor=pointer]:
+        - /url: download/sample3.pdf
+      - link "app_liveBug.jpg" [ref=e30] [cursor=pointer]:
+        - /url: download/app_liveBug.jpg
+      - link "some-file.txt" [ref=e31] [cursor=pointer]:
+        - /url: download/some-file.txt
+      - link "selenide-intro.txt" [ref=e32] [cursor=pointer]:
+        - /url: download/selenide-intro.txt
+      - link "logo.png" [ref=e33] [cursor=pointer]:
+        - /url: download/logo.png
+      - link "test_upload11683333311004399387.txt" [ref=e34] [cursor=pointer]:
+        - /url: download/test_upload11683333311004399387.txt
+      - link "test-upload.txt" [ref=e35] [cursor=pointer]:
+        - /url: download/test-upload.txt
+      - link "sample-zip-file.zip" [ref=e36] [cursor=pointer]:
+        - /url: download/sample-zip-file.zip
+      - link "tf.txt" [ref=e37] [cursor=pointer]:
+        - /url: download/tf.txt
+      - link "not_empty.txt" [ref=e38] [cursor=pointer]:
+        - /url: download/not_empty.txt
+      - link "Priya.jpg" [ref=e39] [cursor=pointer]:
+        - /url: download/Priya.jpg
+      - link "example.txt" [ref=e40] [cursor=pointer]:
+        - /url: download/example.txt
+      - link "zero_bytes_file.txt" [ref=e41] [cursor=pointer]:
+        - /url: download/zero_bytes_file.txt
+      - link "test_upload15854868065930115998.txt" [ref=e42] [cursor=pointer]:
+        - /url: download/test_upload15854868065930115998.txt
+      - link "test.json" [ref=e43] [cursor=pointer]:
+        - /url: download/test.json
+      - link "LambdaTest.txt" [ref=e44] [cursor=pointer]:
+        - /url: download/LambdaTest.txt
+      - link "large_test_file.txt" [ref=e45] [cursor=pointer]:
+        - /url: download/large_test_file.txt
+      - link "Test.txt" [ref=e46] [cursor=pointer]:
+        - /url: download/Test.txt
+      - link "PRD 32 - Hotel listing booking.com.pdf" [ref=e47] [cursor=pointer]:
+        - /url: download/PRD 32 - Hotel listing booking.com.pdf
+      - link "tmpjpxu3cd4.txt" [ref=e48] [cursor=pointer]:
+        - /url: download/tmpjpxu3cd4.txt
+      - link "Test_image.png" [ref=e49] [cursor=pointer]:
+        - /url: download/Test_image.png
+      - link "abc.txt" [ref=e50] [cursor=pointer]:
+        - /url: download/abc.txt
+      - link "tmp1jb1qnjr.txt" [ref=e51] [cursor=pointer]:
+        - /url: download/tmp1jb1qnjr.txt
+      - link "empty_file.txt" [ref=e52] [cursor=pointer]:
+        - /url: download/empty_file.txt
+      - link "sample_media_file.png" [ref=e53] [cursor=pointer]:
+        - /url: download/sample_media_file.png
+      - link "file.txt" [ref=e54] [cursor=pointer]:
+        - /url: download/file.txt
+      - link "test.txt" [ref=e55] [cursor=pointer]:
+        - /url: download/test.txt
+      - link "Jpeg_with_exif.jpeg" [ref=e56] [cursor=pointer]:
+        - /url: download/Jpeg_with_exif.jpeg
+      - link "Text File.txt" [ref=e57] [cursor=pointer]:
+        - /url: download/Text File.txt
+      - link "dev_view.png" [ref=e58] [cursor=pointer]:
+        - /url: download/dev_view.png
+      - link "file.json" [ref=e59] [cursor=pointer]:
+        - /url: download/file.json
+      - link "To Mentor -Abhinay_Playwright.docx" [ref=e60] [cursor=pointer]:
+        - /url: download/To Mentor -Abhinay_Playwright.docx
+      - link "Screenshot_3.png" [ref=e61] [cursor=pointer]:
+        - /url: download/Screenshot_3.png
+      - link "test.xml" [ref=e62] [cursor=pointer]:
+        - /url: download/test.xml
+      - link "sample.png" [ref=e63] [cursor=pointer]:
+        - /url: download/sample.png
+      - link "test_upload.txt" [ref=e64] [cursor=pointer]:
+        - /url: download/test_upload.txt
+      - link "SomeFile.txt" [ref=e65] [cursor=pointer]:
+        - /url: download/SomeFile.txt
+      - link "F1GetFileText.txt" [ref=e66] [cursor=pointer]:
+        - /url: download/F1GetFileText.txt
+      - link "Sample1.txt" [ref=e67] [cursor=pointer]:
+        - /url: download/Sample1.txt
+      - link "upload-me.txt" [ref=e68] [cursor=pointer]:
+        - /url: download/upload-me.txt
+      - link "Pi7_Tool_caste kavya.pdf" [ref=e69] [cursor=pointer]:
+        - /url: download/Pi7_Tool_caste kavya.pdf
+      - link "SampleExcelFile.xlsx" [ref=e70] [cursor=pointer]:
+        - /url: download/SampleExcelFile.xlsx
+      - link "tmpy0_1rt3n.txt" [ref=e71] [cursor=pointer]:
+        - /url: download/tmpy0_1rt3n.txt
+      - link "Fee Receipt.pdf" [ref=e72] [cursor=pointer]:
+        - /url: download/Fee Receipt.pdf
+      - link "random_data.txt" [ref=e73] [cursor=pointer]:
+        - /url: download/random_data.txt
+      - link "Abhi.jpg" [ref=e74] [cursor=pointer]:
+        - /url: download/Abhi.jpg
+      - link "sample.pdf" [ref=e75] [cursor=pointer]:
+        - /url: download/sample.pdf
+      - link "kote.jpg" [ref=e76] [cursor=pointer]:
+        - /url: download/kote.jpg
+      - link "tmpxxo6nh2p.txt" [ref=e77] [cursor=pointer]:
+        - /url: download/tmpxxo6nh2p.txt
+      - link "tmpiov1srjm.txt" [ref=e78] [cursor=pointer]:
+        - /url: download/tmpiov1srjm.txt
+      - link "webOrder_Login_AllScenario.xlsx" [ref=e79] [cursor=pointer]:
+        - /url: download/webOrder_Login_AllScenario.xlsx
+  - generic [ref=e81]:
+    - separator [ref=e82]
+    - generic [ref=e83]:
+      - text: Powered by
+      - link "Elemental Selenium" [ref=e84] [cursor=pointer]:
+        - /url: http://elementalselenium.com/
+```

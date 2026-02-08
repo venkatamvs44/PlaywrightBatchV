@@ -1,0 +1,353 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore Plus
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - textbox "Search for products, brands and more" [ref=e18]
+      - button [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+    - link "Login" [ref=e28] [cursor=pointer]:
+      - /url: /account/login?ret=/account/login%3Fret%3D%2F
+    - link "Become a Seller" [ref=e30] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e31]: Become a Seller
+    - generic [ref=e33] [cursor=pointer]:
+      - generic [ref=e36]: More
+      - img [ref=e37]
+    - link "Cart" [ref=e42] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e43]
+      - generic [ref=e45]: Cart
+  - generic [ref=e50]:
+    - generic [ref=e51] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e52]
+    - generic [ref=e54] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e55]
+    - generic [ref=e57] [cursor=pointer]:
+      - text: Men
+      - img [ref=e58]
+    - generic [ref=e60] [cursor=pointer]:
+      - text: Women
+      - img [ref=e61]
+    - generic [ref=e63] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e64]
+    - generic [ref=e66] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e67]
+    - generic [ref=e69] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e70]
+    - link "Flights" [ref=e72] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e73] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - link "Kitchen, Cookware & Serveware►" [ref=e76] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/pr?sid=upp&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kitchen%2C%20Cookware%20%26%20Serveware
+        - link "Pans" [ref=e77] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/cookware/pans/pr?sid=upp%2Ctnx%2C9fq&otracker=nmenu_sub_Home%20%26%20Furniture_0_Pans
+        - link "Tawas" [ref=e78] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/cookware/tawas/pr?sid=upp%2Ctnx%2Cj12&otracker=nmenu_sub_Home%20%26%20Furniture_0_Tawas
+        - link "Pressure Cookers" [ref=e79] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/cookware/pressure-cookers/pr?sid=upp%2Ctnx%2Cgsl&otracker=nmenu_sub_Home%20%26%20Furniture_0_Pressure%20Cookers
+        - link "Kitchen tools" [ref=e80] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/kitchen-tools/pr?sid=upp%2Cldf&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kitchen%20tools
+        - link "Gas Stoves" [ref=e81] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/gas-stove-accessories/gas-stoves/pr?sid=upp%2Cd7m%2Cuhm&otracker=nmenu_sub_Home%20%26%20Furniture_0_Gas%20Stoves
+        - link "Tableware & Dinnerware►" [ref=e82] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/tableware-dinnerware/pr?sid=upp%2Ci7t&otracker=nmenu_sub_Home%20%26%20Furniture_0_Tableware%20%26%20Dinnerware
+        - link "Coffee Mugs" [ref=e83] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/tableware-dinnerware/mugs/pr?sid=upp%2Ci7t%2Cmsi&otracker=nmenu_sub_Home%20%26%20Furniture_0_Coffee%20Mugs
+        - link "Dinner Set" [ref=e84] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/tableware-dinnerware/dinner-sets/pr?sid=upp%2Ci7t%2Clha&otracker=nmenu_sub_Home%20%26%20Furniture_0_Dinner%20Set
+        - link "Barware" [ref=e85] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/barware/pr?sid=upp%2Cta2&otracker=nmenu_sub_Home%20%26%20Furniture_0_Barware
+        - link "Kitchen Storage►" [ref=e86] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/kitchen-storage-containers/pr?sid=upp%2C5ix&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kitchen%20Storage
+        - link "Water Bottles" [ref=e87] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/water-bottles/pr?sid=upp%2Cf2k%2C0zz&otracker=nmenu_sub_Home%20%26%20Furniture_0_Water%20Bottles
+        - link "Lunch Boxes" [ref=e88] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/lunch-boxes/pr?sid=upp%2Cf2k%2Cu70&otracker=nmenu_sub_Home%20%26%20Furniture_0_Lunch%20Boxes
+        - link "Flasks" [ref=e89] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/flasks/pr?sid=upp%2Cf2k%2C7k9&otracker=nmenu_sub_Home%20%26%20Furniture_0_Flasks
+        - link "Casseroles" [ref=e90] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/tableware-dinnerware/casseroles/pr?sid=upp%2Ci7t%2Cgka&otracker=nmenu_sub_Home%20%26%20Furniture_0_Casseroles
+        - link "Kitchen Containers" [ref=e91] [cursor=pointer]:
+          - /url: /kitchen-cookware-serveware/kitchen-storage-containers/kitchen-containers/pr?sid=upp%2C5ix%2C01e&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kitchen%20Containers
+        - link "Cleaning Supplies►" [ref=e92] [cursor=pointer]:
+          - /url: /home-cleaning-bathroom-accessories/cleaning-supplies/pr?sid=rja%2Cz2d&otracker=nmenu_sub_Home%20%26%20Furniture_0_Cleaning%20Supplies
+      - generic [ref=e93]:
+        - link "Furniture Top Offers►" [ref=e94] [cursor=pointer]:
+          - /url: /furniture-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Furniture%20Top%20Offers
+        - link "Bed Room Furniture►" [ref=e95] [cursor=pointer]:
+          - /url: /furniture/~bedroom-furniture-/pr?sid=wwe&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bed%20Room%20Furniture
+        - link "Beds" [ref=e96] [cursor=pointer]:
+          - /url: /beds/pr?sid=wwe,7p7&otracker=nmenu_sub_Home%20%26%20Furniture_0_Beds
+        - link "Mattresses" [ref=e97] [cursor=pointer]:
+          - /url: /furniture/mattresses/pr?sid=wwe,rg9&otracker=nmenu_sub_Home%20%26%20Furniture_0_Mattresses
+        - link "Wardrobes" [ref=e98] [cursor=pointer]:
+          - /url: /furniture/wardrobes/pr?sid=wwe,fc3&otracker=nmenu_sub_Home%20%26%20Furniture_0_Wardrobes
+        - link "Living Room Furniture►" [ref=e99] [cursor=pointer]:
+          - /url: /furniture/~living-room-furniture-/pr?sid=wwe&otracker=nmenu_sub_Home%20%26%20Furniture_0_Living%20Room%20Furniture
+        - link "Sofa" [ref=e100] [cursor=pointer]:
+          - /url: /furniture/sofas/pr?sid=wwe,c3z&otracker=nmenu_sub_Home%20%26%20Furniture_0_Sofa
+        - link "Sofa Beds" [ref=e101] [cursor=pointer]:
+          - /url: /furniture/sofa-beds/pr?sid=wwe,osg&otracker=nmenu_sub_Home%20%26%20Furniture_0_Sofa%20Beds
+        - link "TV Units" [ref=e102] [cursor=pointer]:
+          - /url: /furniture/tv-units-cabinets/pr?sid=wwe,243&otracker=nmenu_sub_Home%20%26%20Furniture_0_TV%20Units
+        - link "Dining Tables & Chairs" [ref=e103] [cursor=pointer]:
+          - /url: /furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=nmenu_sub_Home%20%26%20Furniture_0_Dining%20Tables%20%26%20Chairs
+        - link "Coffee Tables" [ref=e104] [cursor=pointer]:
+          - /url: /furniture/tables/coffee-tables/pr?sid=wwe,ki7,ot1&otracker=nmenu_sub_Home%20%26%20Furniture_0_Coffee%20Tables
+        - link "Shoe Racks" [ref=e105] [cursor=pointer]:
+          - /url: /furniture/shoe-rack/pr?sid=wwe,0ye&otracker=nmenu_sub_Home%20%26%20Furniture_0_Shoe%20Racks
+        - link "Office & Study Furniture►" [ref=e106] [cursor=pointer]:
+          - /url: /furniture/~office-furniture/pr?sid=wwe&otracker=nmenu_sub_Home%20%26%20Furniture_0_Office%20%26%20Study%20Furniture
+        - link "Kids Room Furniture" [ref=e107] [cursor=pointer]:
+          - /url: /furniture/~kids-furniture/pr?sid=wwe&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kids%20Room%20Furniture
+        - generic [ref=e108] [cursor=pointer]: DIY Furniture
+        - link "Bean Bags" [ref=e109] [cursor=pointer]:
+          - /url: /furniture/bean-bags/pr?sid=wwe,4n6&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bean%20Bags
+        - link "Collapsible Wardrobes" [ref=e110] [cursor=pointer]:
+          - /url: /furniture/wardrobes/collapsible-wardrobes/pr?sid=wwe,fc3,xlp&otracker=nmenu_sub_Home%20%26%20Furniture_0_Collapsible%20Wardrobes
+      - generic [ref=e111]:
+        - link "Furnishing►" [ref=e112] [cursor=pointer]:
+          - /url: /home-furnishing/pr?sid=jra&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Furnishing
+        - link "Bedsheets" [ref=e113] [cursor=pointer]:
+          - /url: /home-furnishing/bed-linen-blankets/bedsheets/pr?sid=jra,knw,qcw&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bedsheets
+        - link "Curtains" [ref=e114] [cursor=pointer]:
+          - /url: /home-furnishing/curtains-accessories/curtains/pr?sid=jra,sl5,2va&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Curtains
+        - link "Cushions & Pillows" [ref=e115] [cursor=pointer]:
+          - /url: /home-furnishing/cushions-pillows/pr?sid=jra,kzv&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Cushions%20%26%20Pillows
+        - link "Blankets" [ref=e116] [cursor=pointer]:
+          - /url: /home-furnishing/bed-linen-blankets/blankets/pr?sid=jra,knw,llw&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Blankets
+        - link "Bath Towels" [ref=e117] [cursor=pointer]:
+          - /url: /home-furnishing/bath-linen/bath-towels/pr?sid=jra,jk3,wtg&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bath%20Towels
+        - link "Kitchen & Table Linen" [ref=e118] [cursor=pointer]:
+          - /url: /home-furnishing/kitchen-table-linen/pr?sid=jra,iwp&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Kitchen%20%26%20Table%20Linen
+        - link "Floor Coverings" [ref=e119] [cursor=pointer]:
+          - /url: /home-furnishing/floor-coverings/pr?sid=jra,kwq&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Floor%20Coverings
+        - link "Smart Home Automation►" [ref=e120] [cursor=pointer]:
+          - /url: /smart-home-automation-store?otracker=nmenu_sub_Appliances_0_Smart%20Home%20Automation&otracker=nmenu_sub_Home%20%26%20Furniture_0_Smart%20Home%20Automation
+        - link "Smart Security System" [ref=e121] [cursor=pointer]:
+          - /url: /automation-robotics/surveillance-devices/security-cameras/pr?otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DCELESTECH&p%5B%5D=facets.brand%255B%255D%3DCP%2BPlus&p%5B%5D=facets.brand%255B%255D%3DCP-PLUS&p%5B%5D=facets.brand%255B%255D%3DCP-Plus&p%5B%5D=facets.brand%255B%255D%3DCp%2BPlus&p%5B%5D=facets.brand%255B%255D%3DCpplus&p%5B%5D=facets.brand%255B%255D%3DCrocon&p%5B%5D=facets.brand%255B%255D%3DFocus&p%5B%5D=facets.brand%255B%255D%3DGodrej&p%5B%5D=facets.brand%255B%255D%3DHIK%2BVISION&p%5B%5D=facets.brand%255B%255D%3DHIKVISION&p%5B%5D=facets.brand%255B%255D%3DHik%2BVision&p%5B%5D=facets.brand%255B%255D%3DHik%2Bvision&p%5B%5D=facets.brand%255B%255D%3DHikvision&p%5B%5D=facets.brand%255B%255D%3DHoneywell&p%5B%5D=facets.brand%255B%255D%3DSAMSUNG&p%5B%5D=facets.brand%255B%255D%3Dcp%2Bplus&p%5B%5D=facets.brand%255B%255D%3Dhoneywell&sid=igc%2Fj69%2Fagd&otracker=nmenu_sub_Home%20%26%20Furniture_0_Smart%20Security%20System
+        - link "Smart Door Locks" [ref=e122] [cursor=pointer]:
+          - /url: /automation-robotics/smart-door-locks/pr?sid=igc,u0f&p%5B%5D=facets.filter_standard%255B%255D%3D1&facets.availability[]=Exclude+Out+of+Stock&otracker=nmenu_sub_Home%20%26%20Furniture_0_Smart%20Door%20Locks
+        - link "Home Improvement►" [ref=e123] [cursor=pointer]:
+          - /url: /homeimprovemntsclp-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Home%20Improvement
+        - link "Tools & Measuring Equipments" [ref=e124] [cursor=pointer]:
+          - /url: /tools-and-measuring-equipment/pr?sid=h1m%2Chww&otracker=nmenu_sub_Home%20%26%20Furniture_0_Tools%20%26%20Measuring%20Equipments
+        - link "Home Utilities & Organizers" [ref=e125] [cursor=pointer]:
+          - /url: /home-improvement/home-utilities-and-organizers/pr?sid=h1m,iee&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Home%20Utilities%20%26%20Organizers
+        - link "Lawn & Gardening" [ref=e126] [cursor=pointer]:
+          - /url: /gardening-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Lawn%20%26%20Gardening
+        - link "Bathroom & Kitchen Fittings" [ref=e127] [cursor=pointer]:
+          - /url: /building-materials-and-supplies/bathroom-and-kitchen-fittings/pr?sid=b8s%2Cecr&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bathroom%20%26%20Kitchen%20Fittings
+      - generic [ref=e128]:
+        - link "Home Decor►" [ref=e129] [cursor=pointer]:
+          - /url: /home-decor/pr?sid=arb&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Home%20Decor
+        - link "Paintings" [ref=e130] [cursor=pointer]:
+          - /url: /home-decor/paintings-posters/paintings/pr?sid=arb,bga,mmf&otracker=nmenu_sub_Home%20%26%20Furniture_0_Paintings
+        - link "Clocks" [ref=e131] [cursor=pointer]:
+          - /url: /home-decor/clocks/pr?sid=arb,kjw&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&otracker=nmenu_sub_Home%20%26%20Furniture_0_Clocks
+        - link "Wall Shelves" [ref=e132] [cursor=pointer]:
+          - /url: /home-decor/wall-decor-items/wall-shelves/pr?sid=arb,a77,vk7&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Wall%20Shelves
+        - link "Stickers" [ref=e133] [cursor=pointer]:
+          - /url: /home-decor/stickers-wallpapers/stickers/pr?sid=arb,yod,si0&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&otracker=nmenu_sub_Home%20%26%20Furniture_0_Stickers
+        - link "Showpieces & Figurines" [ref=e134] [cursor=pointer]:
+          - /url: /home-decor/showpieces-decor-accents/showpieces-figurines/pr?sid=arb,uj2,z1t&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Showpieces%20%26%20Figurines
+        - link "Home Lighting►" [ref=e135] [cursor=pointer]:
+          - /url: /home-lighting/pr?sid=jhg&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&otracker=nmenu_sub_Home%20%26%20Furniture_0_Home%20Lighting
+        - link "Bulbs" [ref=e136] [cursor=pointer]:
+          - /url: /home-lighting/utility-lightling/bulbs/pr?sid=jhg,yqn,feb&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bulbs
+        - link "Wall Lamp" [ref=e137] [cursor=pointer]:
+          - /url: /home-lighting/decor-lighting-accessories/wall-lamps/pr?sid=jhg,6w8,mbd&otracker=nmenu_sub_Home%20%26%20Furniture_0_Wall%20Lamp
+        - link "Table Lamp" [ref=e138] [cursor=pointer]:
+          - /url: /home-lighting/decor-lighting-accessories/table-lamps/pr?sid=jhg,6w8,gde&otracker=nmenu_sub_Home%20%26%20Furniture_0_Table%20Lamp
+        - link "Ceiling Lamp" [ref=e139] [cursor=pointer]:
+          - /url: /home-lighting/decor-lighting-accessories/ceiling-lamps/pr?sid=jhg,6w8,rws&otracker=nmenu_sub_Home%20%26%20Furniture_0_Ceiling%20Lamp
+        - link "Emergency Lights" [ref=e140] [cursor=pointer]:
+          - /url: /home-lighting/utility-lightling/emergency-lights/pr?sid=jhg,yqn,m6m&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Emergency%20Lights
+        - link "Festive Decor & Gifts►" [ref=e141] [cursor=pointer]:
+          - /url: /festive-decor-gifting/pr?sid=bro&otracker=nmenu_sub_Home%20%26%20Furniture_0_Festive%20Decor%20%26%20Gifts
+        - link "Pet Supplies►" [ref=e142] [cursor=pointer]:
+          - /url: /pet-supplies/pr?sid=p3t&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Pet%20Supplies
+        - link "Dogs" [ref=e143] [cursor=pointer]:
+          - /url: /pet-supplies/dogs/pr?sid=p3t,ea3&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Dogs
+        - link "Cats" [ref=e144] [cursor=pointer]:
+          - /url: /pet-supplies/cats/pr?sid=p3t,0mo&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Cats
+        - link "Fish & Aquatics" [ref=e145] [cursor=pointer]:
+          - /url: /pet-supplies/fish-aquatic/pr?sid=p3t,ljf&marketplace=FLIPKART&otracker=nmenu_sub_Home%20%26%20Furniture_0_Fish%20%26%20Aquatics
+      - generic [ref=e146]:
+        - link "Durability Certified Furniture►" [ref=e147] [cursor=pointer]:
+          - /url: /furnituredurable-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Durability%20Certified%20Furniture
+        - generic [ref=e148] [cursor=pointer]: Featured
+        - link "Christmas Store►" [ref=e149] [cursor=pointer]:
+          - /url: /search?q=christmas&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&otracker=nmenu_sub_Home%20%26%20Furniture_0_Christmas%20Store
+        - link "Mugs Store" [ref=e150] [cursor=pointer]:
+          - /url: /search?q=mugs&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&otracker=nmenu_sub_Home%20%26%20Furniture_0_Mugs%20Store
+        - link "Gardening Store►" [ref=e151] [cursor=pointer]:
+          - /url: /gardening-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Gardening%20Store
+        - link "Stainless Steel Store" [ref=e152] [cursor=pointer]:
+          - /url: /stainless-steel-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Stainless%20Steel%20Store
+        - link "Milton" [ref=e153] [cursor=pointer]:
+          - /url: /search?p[]=facets.brand%255B%255D%3DMilton&sid=r4l&otracker=CLP_filters&otracker=nmenu_sub_Home%20%26%20Furniture_0_Milton
+        - link "Bombay Dyeing" [ref=e154] [cursor=pointer]:
+          - /url: /home-furnishing/bombay-dyeing~brand/pr?sid=vdm&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bombay%20Dyeing
+        - link "@home" [ref=e155] [cursor=pointer]:
+          - /url: /search?p[]=facets.brand%255B%255D%3D%2540home%2Bby%2BNilkamal&sid=anx&otracker=CLP_filters&otracker=nmenu_sub_Home%20%26%20Furniture_0_%40home
+        - link "HomeTown" [ref=e156] [cursor=pointer]:
+          - /url: /furniture/hometown~brand/pr?sid=anx&otracker=nmenu_sub_Home%20%26%20Furniture_0_HomeTown
+        - link "Ajanta" [ref=e157] [cursor=pointer]:
+          - /url: /home-decor/ajanta~brand/pr?sid=1m7&otracker=nmenu_sub_Home%20%26%20Furniture_0_Ajanta
+        - link "Spaces by Welspun" [ref=e158] [cursor=pointer]:
+          - /url: /home-furnishing/spaces-by-welspun~brand/pr?sid=vdm&otracker=nmenu_sub_Home%20%26%20Furniture_0_Spaces%20by%20Welspun
+        - link "Prestige" [ref=e159] [cursor=pointer]:
+          - /url: /household/prestige~brand/pr?sid=r4l&otracker=nmenu_sub_Home%20%26%20Furniture_0_Prestige
+        - link "Perfect Home Store►" [ref=e160] [cursor=pointer]:
+          - /url: /perfect-homes-store?otracker=nmenu_sub_Home%20%26%20Furniture_0_Perfect%20Home%20Store
+  - generic [ref=e162]:
+    - generic [ref=e163]:
+      - generic [ref=e164]: Login
+      - paragraph [ref=e165]: Get access to your Orders, Wishlist and Recommendations
+    - generic [ref=e168]:
+      - generic [ref=e169]:
+        - textbox [active] [ref=e170]
+        - generic: Enter Email/Mobile number
+      - generic [ref=e171]:
+        - text: By continuing, you agree to Flipkart's
+        - link "Terms of Use" [ref=e172] [cursor=pointer]:
+          - /url: /pages/terms
+        - text: and
+        - link "Privacy Policy" [ref=e173] [cursor=pointer]:
+          - /url: /pages/privacypolicy
+        - text: .
+      - button "Request OTP" [ref=e175] [cursor=pointer]
+      - link "New to Flipkart? Create an account" [ref=e177] [cursor=pointer]:
+        - /url: /account/login?signup=true
+  - contentinfo [ref=e178]:
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - generic [ref=e183]: ABOUT
+          - link "Contact Us" [ref=e184] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e185] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e186] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e187] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e188] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e189] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e190]:
+          - generic [ref=e191]: GROUP COMPANIES
+          - link "Myntra" [ref=e192] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e193] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e194] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e195]:
+          - generic [ref=e196]: HELP
+          - link "Payments" [ref=e197] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e198] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e199] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e200] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e201]:
+          - generic [ref=e202]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e203] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e204] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e205] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e206] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e207] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e208] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e209] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+          - link "FSSAI Food Safety Connect App" [ref=e210] [cursor=pointer]:
+            - /url: https://fssai.gov.in/cms/food-safety-connect.php
+        - generic [ref=e212]:
+          - generic [ref=e213]: "Mail Us:"
+          - generic [ref=e216]:
+            - paragraph [ref=e217]: Flipkart Internet Private Limited,
+            - paragraph [ref=e218]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e219]: Clove Embassy Tech Village,
+            - paragraph [ref=e220]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e221]: Bengaluru, 560103,
+            - paragraph [ref=e222]: Karnataka, India
+          - generic [ref=e223]: Social
+          - generic [ref=e224]:
+            - link [ref=e226] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e227]
+            - link [ref=e229] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e230]
+            - link [ref=e232] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e233]
+            - link [ref=e235] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e236]
+        - generic [ref=e238]:
+          - generic [ref=e239]: "Registered Office Address:"
+          - generic [ref=e242]:
+            - paragraph [ref=e243]: Flipkart Internet Private Limited,
+            - paragraph [ref=e244]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e245]: Clove Embassy Tech Village,
+            - paragraph [ref=e246]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e247]: Bengaluru, 560103,
+            - paragraph [ref=e248]: Karnataka, India
+            - paragraph [ref=e249]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e250]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e251] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e252] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - img [ref=e256]
+          - link "Become a Seller" [ref=e257] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+        - generic [ref=e258]:
+          - img [ref=e259]
+          - link "Advertise" [ref=e260] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+        - generic [ref=e261]:
+          - img [ref=e262]
+          - link "Gift Cards" [ref=e263] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+        - generic [ref=e264]:
+          - img [ref=e265]
+          - link "Help Center" [ref=e266] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+        - generic [ref=e267]: © 2007-2025 Flipkart.com
+        - img [ref=e268]
+```

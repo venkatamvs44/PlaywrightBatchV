@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- link "Fork me on GitHub":
+  - /url: https://github.com/tourdedave/the-internet
+  - img "Fork me on GitHub"
+- heading "File Downloader" [level=3]
+- link "a469b33f-4008-4cb2-b85a-695fd1d55912-step-2-1754746082680-Screenshot 2025-08-09 at 11.26.14.png":
+  - /url: download/a469b33f-4008-4cb2-b85a-695fd1d55912-step-2-1754746082680-Screenshot 2025-08-09 at 11.26.14.png
+- link "Screenshot 2025-07-09 at 11.44.32.png":
+  - /url: download/Screenshot 2025-07-09 at 11.44.32.png
+- link "70110615-4840-4fda-902d-197efffe50aa-step-2-1754731056440-Screenshot 2025-08-07 at 20.40.25.png":
+  - /url: download/70110615-4840-4fda-902d-197efffe50aa-step-2-1754731056440-Screenshot 2025-08-07 at 20.40.25.png
+- link "test.txt":
+  - /url: download/test.txt
+- link "sample_media_file.png":
+  - /url: download/sample_media_file.png
+- link "AUMIDs.txt":
+  - /url: download/AUMIDs.txt
+- link "ExtentITestNGListeners.java":
+  - /url: download/ExtentITestNGListeners.java
+- link "test.png":
+  - /url: download/test.png
+- link "Test.pdf":
+  - /url: download/Test.pdf
+- link "spectrum-logo.png":
+  - /url: download/spectrum-logo.png
+- link "random_data.txt":
+  - /url: download/random_data.txt
+- link "upload_test.txt":
+  - /url: download/upload_test.txt
+- link "selenium_yoxlama.txt":
+  - /url: download/selenium_yoxlama.txt
+- link "file_1754753492428.pdf":
+  - /url: download/file_1754753492428.pdf
+- link "359475755_303775475552130_212229338687547165_n.jpg":
+  - /url: download/359475755_303775475552130_212229338687547165_n.jpg
+- link "task_ds_a2.ipynb":
+  - /url: download/task_ds_a2.ipynb
+- link "win 10.png":
+  - /url: download/win 10.png
+- link "selenium-upload-5488624584017481064.txt":
+  - /url: download/selenium-upload-5488624584017481064.txt
+- link "21.png":
+  - /url: download/21.png
+- link "test-file.txt":
+  - /url: download/test-file.txt
+- link "img.jpg":
+  - /url: download/img.jpg
+- link "Screenshot (1).png":
+  - /url: download/Screenshot (1).png
+- link "file_1754753488102.pdf":
+  - /url: download/file_1754753488102.pdf
+- link "a469b33f-4008-4cb2-b85a-695fd1d55912-step-2-1754744958899-Screenshot 2025-08-08 at 06.02.08.png":
+  - /url: download/a469b33f-4008-4cb2-b85a-695fd1d55912-step-2-1754744958899-Screenshot 2025-08-08 at 06.02.08.png
+- link "data-vladimir-1-page.pdf":
+  - /url: download/data-vladimir-1-page.pdf
+- link "kote.jpg":
+  - /url: download/kote.jpg
+- link "AF271F54-B23E-4078-9B7E-DDB21F3D63DA.png":
+  - /url: download/AF271F54-B23E-4078-9B7E-DDB21F3D63DA.png
+- link "file_1754753488278.pdf":
+  - /url: download/file_1754753488278.pdf
+- link "LambdaTest.txt":
+  - /url: download/LambdaTest.txt
+- link "test_file.txt":
+  - /url: download/test_file.txt
+- link "LTIMindtree-Data-Privacy-Notice-for-Job-applicants-V1-Final.pdf":
+  - /url: download/LTIMindtree-Data-Privacy-Notice-for-Job-applicants-V1-Final.pdf
+- link "upload_1602075616863122885.txt":
+  - /url: download/upload_1602075616863122885.txt
+- link "sampleFile.txt":
+  - /url: download/sampleFile.txt
+- link "Tasks.docx":
+  - /url: download/Tasks.docx
+- link "selenium-upload-11134133072749385739.txt":
+  - /url: download/selenium-upload-11134133072749385739.txt
+- link "selenium-upload-1277890587154347690.txt":
+  - /url: download/selenium-upload-1277890587154347690.txt
+- link "Screenshot 2025-08-08 at 09.41.05.png":
+  - /url: download/Screenshot 2025-08-08 at 09.41.05.png
+- link "file_1754753541644.pdf":
+  - /url: download/file_1754753541644.pdf
+- link "sami.jpeg":
+  - /url: download/sami.jpeg
+- link "some-file.txt":
+  - /url: download/some-file.txt
+- separator
+- text: Powered by
+- link "Elemental Selenium":
+  - /url: http://elementalselenium.com/
+```

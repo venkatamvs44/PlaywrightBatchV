@@ -10,3 +10,4 @@ await page.getByRole('button', { name: 'laptop under 35000' }).click();
 await page.getByRole('link', { name: 'Sponsored Ad - HP 15, 13th' }).click();
 await page.close()
 })
+
